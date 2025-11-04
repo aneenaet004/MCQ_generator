@@ -24,7 +24,7 @@ The application uses a Flask backend for handling requests and serving web pages
 ![Screenshot of the generated MCQs page, displaying questions and options before the answers are revealed.](https://github.com/aneenaet004/MCQ_generator/blob/main/second_.png?raw=true)
 
 **3. Generated MCQs (After showing results)**
-![Screenshot of the generated MCQs page, showing questions, options, and the highlighted correct answers.](Images/fifth.png)
+![Screenshot of the generated MCQs page, showing questions, options, and the highlighted correct answers.](https://github.com/aneenaet004/MCQ_generator/blob/main/third%20(1).png?raw=true)
 
 ## Demo Video
 
